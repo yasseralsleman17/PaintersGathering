@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.drawerlayout.widget.DrawerLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/painter_drawer_layout"
+android:scrollbarSize="2dp"
+tools:ignore="HardcodedText"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".Painter.PainterProfile">
+
+
+<include layout="@layout/painter_profile" />
+
+<com.google.android.material.navigation.NavigationView
+    android:id="@+id/painter_nav"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:backgroundTint="#99999A"
+    android:scrollbarSize="2dp"
+    app:itemIconSize="15dp"
+    app:menu="@menu/painter">
+
+
+</com.google.android.material.navigation.NavigationView>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
+

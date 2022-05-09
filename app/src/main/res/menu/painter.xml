@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/main_page"
+        android:title="Main Page" />
+
+
+    <item
+        android:id="@+id/create_course"
+        android:title="Create Course" />
+
+    <item
+        android:id="@+id/requesting"
+        android:title="Requesting " />
+
+
+    <item
+        android:id="@+id/event"
+        android:title="Event" />
+
+    <item
+        android:id="@+id/store"
+        android:title="Store" />
+
+    <item
+        android:id="@+id/join_course"
+        android:title="Join Course" />
+    <item
+        android:id="@+id/log_out"
+        android:title="Log Out" />
+
+
+</menu>

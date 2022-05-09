@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/drawable/buttom_style.xml" value="0.2703125" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/drawable/round_btn.xml" value="0.2703125" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_accept_request.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_add_course.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_add_drawing.xml" value="0.23097826086956522" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_admin_home_page.xml" value="0.22871376811594202" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_event.xml" value="0.2" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_first_page.xml" value="0.25" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_forget_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_login.xml" value="0.22871376811594202" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_painter_home_page.xml" value="0.264" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_painter_profile.xml" value="0.264" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_painter_register.xml" value="0.22871376811594202" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_painter_request_drawing.xml" value="0.24375917767988253" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_register_page.xml" value="0.22871376811594202" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_show_events.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_show_stores.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_user_home_page.xml" value="0.22871376811594202" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_user_register.xml" value="0.22871376811594202" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_user_request_drawing.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/activity_user_requesting.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/courses_card_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/event_available_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/event_you_join_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/imageview.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/painter_home_page.xml" value="0.23097826086956522" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/painter_pictuer_tosend.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/painter_profile.xml" value="0.264" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/painter_request_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/payment.xml" value="0.4" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/show_drawing_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/show_rated_drawing.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/store_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/layout/user_request_card.xml" value="0.4" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/menu/painter.xml" value="0.25416666666666665" />
+        <entry key="..\:/game/PaintersGathering/app/src/main/res/menu/user.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
